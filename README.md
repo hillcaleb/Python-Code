@@ -28,6 +28,10 @@ often do they return to Instacart)?
   - Is there a connection between age and family status in terms of ordering
     habits?
 
+## Data Dictionary
+
+https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b#file-data_description-md
+
 ## Deliverables
 
 Create a report that describes your analysis methodology, your results, and your
