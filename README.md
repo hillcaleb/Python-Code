@@ -30,5 +30,5 @@ often do they return to Instacart)?
 
 ## Deliverables
 
-- Create a report that describes your analysis methodology, your results, and your
+Create a report that describes your analysis methodology, your results, and your
 recommendations for Instacart stakeholders
